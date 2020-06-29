@@ -1,0 +1,6 @@
+{
+    "TOKEN":"HERE GOES THE TOKEN",
+    "PaypalURL": "HERE GOES THE PAYPAL ADDRESS",
+    "DepartmentRole": "HERE GOES THE DEPARTMENT ROLE ID",
+    "comissionsChannelID": "HERE GOES THE COMISSIONS CHANNEL'S ID"
+}
